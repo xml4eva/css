@@ -294,7 +294,7 @@ fieldset:disabled a.btn {
 	}
 
 		.form-feedback.success:before {
-			background-image: url(./../images/svgs/icon-check-green.svg);
+			background-image: url(./https://xml4eva.github.io/images/icon-check-green.svg);
 		}
 
 	.form-feedback.error {
@@ -303,7 +303,7 @@ fieldset:disabled a.btn {
 	}
 
 		.form-feedback.error:before {
-			background-image: url(./../images/svgs/icon-cross-red.svg);
+			background-image: url(./https://xml4eva.github.io/images/icon-cross-red.svg);
 		}
 
 /** Checkboxes & Radios **/
@@ -366,7 +366,7 @@ fieldset:disabled a.btn {
 				left: expression(50% - 6px);
 				left: -o-calc(50% - 6px);
 				left: calc(50% - 6px);
-				background-image: url("../images/svgs/icon-check-black.svg");
+				background-image: url("https://xml4eva.github.io/images/icon-check-black.svg");
 			}
 
 			.checkbox-container input[type=checkbox]:checked + span + label, .checkbox-container input[type=radio]:checked + span + label, .radio-container input[type=checkbox]:checked + span + label, .radio-container input[type=radio]:checked + span + label {
@@ -374,11 +374,11 @@ fieldset:disabled a.btn {
 			}
 
 		.checkbox-container input[type=checkbox].darkTick + span:after, .checkbox-container input[type=radio].darkTick + span:after, .radio-container input[type=checkbox].darkTick + span:after, .radio-container input[type=radio].darkTick + span:after {
-			background-image: url("../images/svgs/icon-check-black.svg");
+			background-image: url("https://xml4eva.github.io/images/icon-check-black.svg");
 		}
 
 		.checkbox-container input[type=checkbox].lightTick + span:after, .checkbox-container input[type=radio].lightTick + span:after, .radio-container input[type=checkbox].lightTick + span:after, .radio-container input[type=radio].lightTick + span:after {
-			background-image: url("../images/svgs/icon-check-white.svg");
+			background-image: url("https://xml4eva.github.io/images/icon-check-white.svg");
 		}
 
 	.checkbox-container label, .radio-container label {
