@@ -298,7 +298,7 @@ fieldset:disabled a.btn {
 		}
 
 	.form-feedback.error {
-		border: 1px solid #cf2717 !important;
+		border: 2px solid #cf2717 !important;
 		color: #cf2717 !important;
 	}
 
