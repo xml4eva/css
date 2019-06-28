@@ -294,7 +294,7 @@ fieldset:disabled a.btn {
 	}
 
 		.form-feedback.success:before {
-			background-image: url(./https://xml4eva.github.io/images/icon-check-green.svg);
+			background-image: url(https://xml4eva.github.io/images/icon-check-green.svg);
 		}
 
 	.form-feedback.error {
@@ -303,7 +303,7 @@ fieldset:disabled a.btn {
 	}
 
 		.form-feedback.error:before {
-			background-image: url(./https://xml4eva.github.io/images/icon-cross-red.svg);
+			background-image: url(https://xml4eva.github.io/images/icon-cross-red.svg);
 		}
 
 /** Checkboxes & Radios **/
