@@ -241,10 +241,8 @@ fieldset:disabled a.btn {
 	width: 100%;
 }
 
-@media (min-width: 768px) {
-	.text-md-left {
-		text-align: left !important;
-	}
+.text-md-left {
+	text-align: left !important;
 }
 
 .form-control {
@@ -526,7 +524,7 @@ fieldset:disabled a.btn {
 	font-stretch: normal;
 	line-height: 1.67;
 	letter-spacing: normal;
-	text-align: center;
+	text-align: left;
 	color: #7d7873;
 	text-align: center;
 	width: 100%;
