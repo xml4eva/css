@@ -658,7 +658,7 @@ fieldset:disabled a.btn {
 
 .payment-security-message p:before {
 	content: "";
-	background: url(/images/svgs/info-circle-light.svg);
+	background: url(/images/info-circle-light.svg);
 	background-size: 30px;
 	background-repeat: no-repeat;
 	height: 30px;
